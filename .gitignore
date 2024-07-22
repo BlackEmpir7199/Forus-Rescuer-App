@@ -21,6 +21,13 @@ migrate_working_dir/
 # is commented out by default.
 #.vscode/
 
+#                        ---------
+#untrack AndroidManifest | O O |
+#untrack AppDelegate.swift|0|
+#                         ---
+android/app/src/main/AndroidManifest.xml
+ios/Runner/AppDelegate.swift   
+
 # Flutter/Dart/Pub related
 **/doc/api/
 **/ios/Flutter/.last_build_id
