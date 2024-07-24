@@ -1,5 +1,5 @@
+![image](https://github.com/user-attachments/assets/04ea16b5-3249-4cd4-9037-0d69493c8093)
 # 🆘 Rescuer App 
-
 
 ## Overview
 
@@ -18,11 +18,15 @@ The **Rescuer App** is a crucial element of the **FORUS (Focused Operational Res
 
 | **Home Page** | **Profile Page** |
 |:-------------:|:----------------:|
-| ![Home Page](link-to-home-page-image.png) | ![Profile Page](link-to-profile-page-image.png) |
+|![Screenshot_2024-07-24-21-21-59-12_f84276fdd4538ea058f1ec5571306ba7 1](https://github.com/user-attachments/assets/e5da98b4-3095-4b1f-a1b7-53fe5a6da274)
+) | ![image](https://github.com/user-attachments/assets/318b9f93-9c98-459d-a2e3-8225a57ba87e)
+ |
 
-| **Feedback Page** | **Title Page** |
+| **Feedback Page** | **SignUp Page** |
 |:-----------------:|:--------------:|
-| ![Feedback Page](link-to-feedback-page-image.png) | ![Title Page](link-to-title-page-image.png) |
+|  ![image](https://github.com/user-attachments/assets/66e21586-db76-4dfb-8990-3fec7ea8c24b)
+| ![image](https://github.com/user-attachments/assets/4c7af1d5-7137-4f90-82ef-c8c0512d3ae1)
+ |
 
 ## 🚀 Getting Started
 
