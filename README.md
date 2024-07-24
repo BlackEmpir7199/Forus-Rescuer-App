@@ -18,11 +18,11 @@ The **Rescuer App** is a crucial element of the **FORUS (Focused Operational Res
 
 | **Home Page** | **Profile Page** |
 |:-------------:|:----------------:|
-|![image](https://github.com/user-attachments/assets/2759a070-0eaa-4cde-87df-47cbd58ba6eb) | ![image](https://github.com/user-attachments/assets/318b9f93-9c98-459d-a2e3-8225a57ba87e) |
+| ![image](https://github.com/user-attachments/assets/66e21586-db76-4dfb-8990-3fec7ea8c24b) | ![image](https://github.com/user-attachments/assets/4c7af1d5-7137-4f90-82ef-c8c0512d3ae1) |
 
 | **Feedback Page** | **SignUp Page** |
 |:-----------------:|:--------------:|
-|  ![image](https://github.com/user-attachments/assets/66e21586-db76-4dfb-8990-3fec7ea8c24b) |  ![image](https://github.com/user-attachments/assets/4c7af1d5-7137-4f90-82ef-c8c0512d3ae1) |
+| ![image](https://github.com/user-attachments/assets/2759a070-0eaa-4cde-87df-47cbd58ba6eb) | ![image](https://github.com/user-attachments/assets/318b9f93-9c98-459d-a2e3-8225a57ba87e) |
 
 ## 🚀 Getting Started
 
