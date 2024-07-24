@@ -87,5 +87,5 @@ We welcome contributions! Follow these steps to contribute:
 
 ## 📬 Contact
 
-- **Project Repository**: [FORUS](https://github.com/your-username/rescuer-app)
+- **Project Repository**: [FORUS](https://github.com/BlackEmpir7199FORUS)
 - **Email**: [forusrescuer@gmail.com](mailto:your-email@example.com)
