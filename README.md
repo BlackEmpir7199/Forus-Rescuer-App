@@ -1,4 +1,4 @@
-# 🆘 Rescuer App - Part of FORUS System
+# 🆘 Rescuer App 
 
 
 ## Overview
